@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarJaysonSanAgustin
 - 👀 I’m interested in programming and web development
-- 👨‍💻 I'm currently working as a Software Engineer using ReactJS, JavaScript, Java and Springboot
+- 👨‍💻 I'm currently working as a Software Engineer using ReactJS, JavaScript, NodeJS, TypeScript, Java and Springboot
 - 🦀 I’m currently learning new programming languages such as Go and Rust
 - 🌱 Also currently re/learning new and great front-end stuffs
 - 💞️ I’m looking to collaborate on passion and hobby projects
